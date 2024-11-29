@@ -1,7 +1,8 @@
 # Hi there, I'm Harold!
 
-## 👋 I'm a developer focused on **React**, creating user-friendly designs and enhancing website performance. My work spans:
+## 👋 I'm a developer focused on **React**, creating user-friendly designs and enhancing website performance.
 
+I do stuff like:
 - **Microservices architecture** for streamlined applications.
 - **Custom WordPress solutions** for improved E-commerce functionality.
 - **Consistent, engaging interfaces** aligned with brand goals.
