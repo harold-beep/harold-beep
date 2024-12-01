@@ -20,17 +20,11 @@ I do stuff like:
 
 ---
 
-## 🌟 Explore My Work
-- **Frontend Projects:** Dynamic, responsive designs with modern UI frameworks.
-- **Backend Solutions:** Efficient APIs using Web API and Entity Framework.
-- **Custom WordPress:** Tailored E-commerce enhancements.
-
 Let's collaborate and build something amazing! 🚀
 
 ---
 
 ### 📬 Connect with Me
-- **GitHub:** [My Profile](#)  
 - **Portfolio:** [My Portfolio](#)  
 - **Email:** [Contact Me](mailto:haroldish.delacruz@example.com)
 
