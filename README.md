@@ -62,7 +62,7 @@ I do stuff like:
 ### 📬 Connect and let's collaborate to build something amazing! 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; font-size: 18px; flex-wrap: wrap;">  
-  <a href="#" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+  <a href="https://jan4hire.vercel.app/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/24/000000/portfolio.png" alt="Portfolio Icon" style="margin-right: 8px;" />
     <strong>Portfolio:</strong> My Portfolio
   </a>   
