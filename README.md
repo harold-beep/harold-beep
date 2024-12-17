@@ -31,9 +31,10 @@ I do stuff like:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap; margin-top: 16px;">
   <strong>Backend:</strong>
-  <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="RESTful API Icon" title="RESTful APIs" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/mvc.png" alt="MVC Icon" title="MVC" />
-  <img src="https://img.icons8.com/color/48/000000/object-oriented-programming.png" alt="OOP Icon" title="OOP" />
+  <img src="[https://img.icons8.com/color/48/000000/rest-api.png](https://img.icons8.com/?size=100&id=50196&format=png&color=000000)" alt="RESTful API Icon" title="RESTful APIs" />
+  <img src="![image](https://github.com/user-attachments/assets/4d2e26c8-f8c8-4533-b8b6-6bd533210bad)
+" alt="MVC Icon" title="MVC" />
+  <img src="[https://img.icons8.com/color/48/000000/object-oriented-programming.png](https://img.icons8.com/?size=100&id=O4aGAhIW2ZXK&format=png&color=000000)" alt="OOP Icon" title="OOP" />
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap; margin-top: 16px;">
